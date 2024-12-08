@@ -98,5 +98,5 @@ exit
 # To run the script, save it to a file (e.g: rsync_with_sha256.sh), make it executable, and double click to run it: 
 # chmod +x rsync_with_sha256.command
 
-#  Note:  The checksum files are not deleted after comparison. You can uncomment line 81 if you want to clean up after comparison. 
+#  Note:  The checksum files are not deleted after comparison. You can uncomment line 83 if you want to clean up after comparison. 
 #  Note:  The script excludes .DS_Store files from the checksum calculation and transfer.
